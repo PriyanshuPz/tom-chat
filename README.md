@@ -25,7 +25,6 @@ Tom Chat is a friendly CLI chatbot built with Go that leverages streaming respon
    cd tom-chat
    ```
 
-````
 
 2. **Install dependencies:**
 
@@ -84,11 +83,3 @@ tom-chat/
 └── README.md                # This file
 ```
 
-## Contributing
-
-Contributions are welcome! Feel free to open issues or pull requests to improve features or add new ones.
-
-## License
-
-This project is licensed under the MIT License.
-````
